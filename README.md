@@ -17,3 +17,6 @@ y esto desde local
   * 2.1
   * 2.2
  
+![logo](https://avatars.githubusercontent.com/u/211695663?v=4)
+
+*esto* es un _texto_
